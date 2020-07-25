@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://demo.themefisher.com/vex-hugo/"
-title = "Vex | hugo landing page template"
+baseurl = "https://elated-ritchie-99f134.netlify.app/"
+title = "UPA"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -50,14 +50,33 @@ weight = 2
 
 # main menu
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Stories"
+URL = "contact"
 weight = 3
 
+# main menu
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Diary"
+URL = "blog"
 weight = 4
+
+# main menu
+[[menu.main]]
+name = "Shop"
+URL = "blog"
+weight = 5
+
+# main menu
+[[menu.main]]
+name = "Collections"
+URL = "blog"
+weight = 6
+
+# main menu
+[[menu.main]]
+name = "Press"
+URL = "blog"
+weight = 7
 
 # footer menu
 [[menu.footer]]
